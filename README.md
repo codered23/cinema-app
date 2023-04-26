@@ -33,6 +33,8 @@ As Guest:
 - MySQL DB v.8.0.32
 - Apache Tomcat v.9.0.71
 - Apache Maven v.3.1.1
+- REST (Representational State Transfer)
+- Jackson (Java JSON Processing Library)
 ---
 
 ## How to Run:
